@@ -1,1 +1,1 @@
-task 4:Write a program that prints the alphabet in lowercase, followed by a new line.Print all the letters except q and e.
+task 5: Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.

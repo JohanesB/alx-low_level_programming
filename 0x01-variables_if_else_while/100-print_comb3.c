@@ -2,29 +2,25 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point
+ * main - Entry points
  *
  * Return: Always 0(Success)
  */
 int main(void)
 {
-	int i, j;
+	int x, y;
 
-	for (i = '0'; i < '9'; i++)
+	for (x = 0; x < 10; x++)
 	{
-		for (j = i + 1; j <= '9'; i++)
+		for (y = x + 1; y < 10; y++)
 		{
-			if (i != j)
-			{
-				putchar(i);
-				putchar(j);
-				
-				if (i == '8' && j == '9')
-					continue;
+			putchar((x % 10) + '0');
+			putchar((y % 10) + '0');
 
-				putchar(',');
-				putchar(' ');
-			}
+			if (x == 8 && y == 9)
+				continue;
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');

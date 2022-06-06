@@ -1,1 +1,1 @@
-task 2:Write a program that prints the alphabet in lowercase, followed by a new line
+task 3: Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.

@@ -13,5 +13,5 @@ int main(void)
 	for (single = '0'; single <= '9'; single++)
 	       putchar(single);
 	putchar('\n');
-	return (0);	
+	return (0);
 }

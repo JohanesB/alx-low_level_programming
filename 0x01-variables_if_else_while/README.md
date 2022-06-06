@@ -1,1 +1,1 @@
-task 11: Write a program that prints all possible different combinations of three digits.
+task 12: Write a program that prints all possible combinations of two two-digit numbers

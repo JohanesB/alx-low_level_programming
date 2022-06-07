@@ -1,1 +1,1 @@
-task 2: Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
+task 3:Write a function that checks for lowercase character.

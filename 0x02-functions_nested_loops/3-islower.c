@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * islower - checks for lowercase character
+ * _islower - checks for lowercase character
  * @c: character to check
  * alphabet in lowercase 10 times
  * Description: checks for lowercase character.

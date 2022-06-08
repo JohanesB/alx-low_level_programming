@@ -1,1 +1,1 @@
-task 6: Write a function that computes the absolute value of an integer.
+task 7: a function that prints the last digit of a number.

@@ -1,1 +1,1 @@
-task 4: Write a function that checks for alphabetic character.
+task 6: Write a function that computes the absolute value of an integer.

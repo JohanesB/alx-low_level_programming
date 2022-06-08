@@ -11,15 +11,15 @@ int main(void)
 
 	fibonacci[0] = 1;
 	fibonacci[1] = 2;
-	printf("%1d, %1d,", fibonacci[0], fibonacci[1]);
+	printf("%ld, %ld,", fibonacci[0], fibonacci[1]);
 
 	for (i = 2; i < 50; i++)
 	{
 		fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
 		if (i != 49)
-			printf("%1d, ", fibonacci[i]);
+			printf("%ld, ", fibonacci[i]);
 		else
-			printf("%1d\n", fibonacci[i]);
+			printf("%ld\n", fibonacci[i]);
 	}
 	return (0);
 }

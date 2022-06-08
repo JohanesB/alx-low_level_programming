@@ -1,1 +1,1 @@
-task 10: a function that adds two integers and returns the result.
+task 11: Write a function that prints all natural numbers from n to 98, followed by a new line

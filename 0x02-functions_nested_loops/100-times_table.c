@@ -3,6 +3,7 @@
  * print_times_table - chck the code
  * Description: Write a function that prints the n times table
  * Return: Nothing
+ * @n: integer n
  */
 void print_times_table(int n)
 {

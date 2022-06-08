@@ -6,8 +6,8 @@
  */
 int main(void)
 {
-	int i, sum = 0;
-	int long fibonacci[50];
+	int i;
+	int long fibonacci[50], sum = 2;
 
 	fibonacci[0] = 1;
 	fibonacci[1] = 2;

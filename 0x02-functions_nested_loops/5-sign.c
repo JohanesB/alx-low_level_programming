@@ -2,13 +2,13 @@
 /**
  * print_sign - prints the sign of a number
  * Description - Write a function that prints the sign of a number
- * Returns 1 and prints + if n is greater than zero
- * Returns 0 and prints 0 if n is zero
+ * @n: An input number
+ * Return: 1 if number is positive, o if number is 0, or
  * Returns -1 and prints - if n is less than zero
  */
 int print_sign(int n)
 {
-	if ( n > 0)
+	if (n > 0)
 	{
 		_putchar('+');
 		return (1);

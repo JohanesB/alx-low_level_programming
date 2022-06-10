@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - Prints a triangle of squares according parameter
- * @size: the size of the triangle
+ * @size: the size of the squares triangle
  * Return: Nothing
  */
 void print_triangle(int size)
@@ -23,7 +23,10 @@ void print_triangle(int size)
 			}
 
 			for (k = 0; k <= i; k++)
+			{
 			       _putchar(35);
+			}
+
 			_putchar('\n');
 		}
 	}

@@ -1,1 +1,1 @@
-task 8: function that prints a square and use the character # to print the square
+task 9:  a program that prints the numbers from 1 to 100 But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz

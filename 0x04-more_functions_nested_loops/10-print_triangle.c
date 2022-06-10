@@ -3,9 +3,9 @@
 /**
  * print_triangle - Prints a triangle of squares according parameter
  * @size: the size of the squares triangle
- *
  * Return: empty
  */
+
 void print_triangle(int size)
 {
 	int i, j, k;
@@ -27,7 +27,6 @@ void print_triangle(int size)
 			{
 			       _putchar(35);
 			}
-
 			_putchar('\n');
 		}
 	}

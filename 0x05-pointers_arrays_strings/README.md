@@ -1,1 +1,1 @@
-task 1: a function that swaps the values of two integers.
+task 2 : Write a function that returns the length of a string.

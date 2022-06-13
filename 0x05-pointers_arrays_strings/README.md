@@ -1,1 +1,1 @@
-task 4: a function that prints a string, in reverse, followed by a new line
+task 5: a function that reverses a string.

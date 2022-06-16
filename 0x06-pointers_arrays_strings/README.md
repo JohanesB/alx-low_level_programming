@@ -1,1 +1,1 @@
-task 6: a function that capitalizes all words of a string.
+task 7: a function that encodes a string into 1337.

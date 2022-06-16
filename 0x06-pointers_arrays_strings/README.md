@@ -1,1 +1,1 @@
-task 3: a function that compares two strings.
+task 4: a function that reverses the content of an array of integers.

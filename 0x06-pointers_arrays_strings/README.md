@@ -1,1 +1,1 @@
-task 2: a function that copies a string
+task 3: a function that compares two strings.

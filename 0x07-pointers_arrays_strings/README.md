@@ -5,3 +5,4 @@ task 3: strspn - a function that gets the length of a prefix substring.
 task 4: strpbrk - a function that searches a string for any of a set of bytes.
 task 5: strstr - char *_strstr(char *haystack, char *needle);
 task 6: Chess is mental torture - a function that prints the chessboard.
+task 7: a function that prints the sum of the two diagonals of a square matrix of integers.

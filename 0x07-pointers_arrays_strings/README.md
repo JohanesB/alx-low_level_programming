@@ -6,3 +6,4 @@ task 4: strpbrk - a function that searches a string for any of a set of bytes.
 task 5: strstr - char *_strstr(char *haystack, char *needle);
 task 6: Chess is mental torture - a function that prints the chessboard.
 task 7: a function that prints the sum of the two diagonals of a square matrix of integers.
+task 8: a function that sets the value of a pointer to a char.

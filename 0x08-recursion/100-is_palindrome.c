@@ -30,7 +30,7 @@ int check_palindrome(int l, int r, char *p)
 /**
  * is_palindrome - states if a string is a palindrome
  * @s: string to check
- * Return: 1 if palindrome, 0 if not
+ * Return: 1 if palindrome, 0 if not.
  */
 int is_palindrome(char *s)
 {

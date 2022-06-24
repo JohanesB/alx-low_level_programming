@@ -5,7 +5,7 @@
  * main - adds positive numbers
  * @argc: count an argument
  * @argv: vector of argument
- * Return: always 0
+ * Return: 0 if no errors, else 1
  */
 int main (int argc, char *argv[])
 {

@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <ctype.h>
 #include <stdlib.h>
+#include <ctype.h>
 /**
  * main - adds positive numbers
  * @argc: count an argument
@@ -24,7 +24,7 @@ int main (int argc, char *argv[])
 	}
 	for (i = 1; i < argc; i++)
 	{
-		a += atoi(argv[i]);
+		a = a + atoi(argv[i]);
 	}
 	printf("%d\n", a);
 	return (0);

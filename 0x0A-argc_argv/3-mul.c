@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - multiplies two number
  * @argc: count the argument
@@ -11,7 +12,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 3)
 	{
-		printf("Error\n");
+		puts("Error");
 		return (1);
 	}
 	else

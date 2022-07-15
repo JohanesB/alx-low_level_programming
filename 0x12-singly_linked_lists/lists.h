@@ -1,6 +1,7 @@
 #ifndef _ALX_
 #define _ALX_
 
+#include <stddef.h>
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)

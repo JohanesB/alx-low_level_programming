@@ -1,5 +1,6 @@
 #ifndef _ALX_
 #define _ALX_
+
 /**
  * struct listint_s - singly linked list
  * @n: integer

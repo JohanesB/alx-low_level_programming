@@ -1,28 +1,12 @@
 #include "main.h"
 
 /**
- * _strlen - finds the length of a string
- * @str: pointer to the string
- *
- * Return: length of the string
- */
-int _strlen(char *s)
-{
-	int c = 0;
-
-	while (s[c])
-		c++;
-
-	return (c);
-}
-
-/**
- * create_file - creates a file.
- * @filename: name of the file to create
- * @text_content: NULL terminated string to write to the file
- *
- * Return: 1 on success, -1 on failure
- */
+  * create_file - ...
+  * @filename: ...
+  * @text_content: ...
+  *
+  * Return: ...
+  */
 int create_file(const char *filename, char *text_content)
 {
 	int fd;
@@ -39,4 +23,20 @@ int create_file(const char *filename, char *text_content)
 
 	close(fd);
 	return (1);
+}
+
+/**
+  * _strlen - Returns the length of a string
+  * @s: String to count
+  *
+  * Return: String length
+  */
+int _strlen(char *s)
+{
+	int c = 0;
+
+	while (s[c])
+		c++;
+
+	return (c);
 }
